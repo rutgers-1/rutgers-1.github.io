@@ -79,7 +79,7 @@ div.section {
 
 /* This alters the appearance of the div with id="minileft", the div containing the images */
 .minileft {
-	float: left;
+	float: right;/*-------- push images to the right margin------- */
 	height: 100%;
 	margin-top: 1.5em;
 	margin-right: 1em;
