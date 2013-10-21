@@ -57,7 +57,7 @@ div.section {
 	background: #d21034;
 	color: black;
 	font: Arial, Arial, Sans-Serif;
-	background-image: none;  /* replace none with url('image-url') to set a background image  */
+	background-image: '/home/kali/Downloads/git3.jpg';  /* replace none with url('image-url') to set a background image  */
 }
 
 /* You can alter the links within a div with the following syntax */
