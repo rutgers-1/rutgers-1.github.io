@@ -83,5 +83,6 @@ div.section {
 	height: 100%;
 	margin-top: 1.5em;
 	margin-right: 1em;
+	margin-left: 1em;/*-----needed a left margin as well-----*/
 }
 
